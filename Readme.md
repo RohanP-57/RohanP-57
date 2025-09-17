@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohan Prajapati </h1>
 <h3 align="center">Android developer</h3>
 
-- 📫 How to reach me **rohanprajapati121212@hmail.com**
+- 📫 How to reach me **rohanprajapati121212@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
